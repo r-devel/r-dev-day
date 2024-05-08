@@ -33,11 +33,16 @@ Summary 1 week after sprint:
 
 - 1 patch waiting for review
 
+## Other outcomes
+
+Connections were made which may result in restarting the Cambridge R User Group.
+
 ## Participant list
 
 | Attendee name         | Job title                       | University/Affiliation                         |
 |:----------------------|:--------------------------------|:-----------------------------------------------|
 | Saranjeet Kaur Bhogal | Research Software Engineer      | Imperial College London                        |
+| Colin Gillespie       | CTO                             | Jumping Rivers                                 |
 | Ella Kaye             | Research Software Engineer      | University of Warwick                          |
 | Heather Turner        | RSE Fellow/Associate Professor  | University of Warwick                          |
 | Charlie Gao           | Director                        | Hibiki AI Limited                              |
