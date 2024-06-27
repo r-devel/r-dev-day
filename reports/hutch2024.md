@@ -26,10 +26,11 @@ Due to the small numbers, EDIA summaries are not reported for this individual ev
 | Malcolm Barrett  |           |                        |
 | Michael Lawrence |           |                        |
 | Mike Chirico     |           |                        |
-| Paul Murrell     |           |                        |
 | Robert Gentleman |           |                        |
 | Shannon Pileggi  |           |                        |
 | Sherry Zhang     |           |                        |
-| Thomas Lumley    |           |                        |
+| Thomas Lumley^   |           |                        |
 | Will Landau      |           |                        |
 | Zhian Kamvar     |           |                        |
+
+^Remote participant
