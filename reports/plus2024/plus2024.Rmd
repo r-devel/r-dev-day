@@ -1,0 +1,62 @@
+---
+title: "R Dev Day @ PLUS 2024"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+```
+
+## Participants
+
+There were 44 participants at the Dev Day.
+
+Although we did not have funding available for travel, there were a few participants from outside the Global North and good spread of countries within the Global North.
+
+```{r photos}
+#| fig.alt = paste(
+#|   "Continents in order of number of participants, counts per country.",
+#|   "Europe: UK - 6, Germany - 5, Austria, Switzerland - 3, Czechia, Denmark, France, Hungary, Luxembourg, Netherlands, Poland, Spain - 1.",
+#|   "North America: USA - 9, Canada - 1./",
+#|   "Asia: India, Nepal - 1.",
+#|   "Latin America: Argentina - 1, Brazil - 1.",
+#|   "Africa: 0.",
+#|   "Oceania: Australia - 3, New Zealand - 2.",
+#|   "Middle East: 0"),
+#| out.width = "80%",
+#| fig.show = "hold"
+knitr::include_graphics("figures/participant_map.png")
+```
+
+The balance of skills (as judged by the selection committee) was similar to that at R Project Sprint 2023:
+```{r skills}
+#| fig.alt = "Bar chart of contributor level. R-core: 9; Advanced: 17; Intermediate: 10, Beginner: 8",
+#| out.width = "50%",
+knitr::include_graphics("figures/contributor_level.svg")
+```
+
+Of the 28 participants that came by application, 16 identified as being from one or more underrepesented groups in the R developer community.
+
+## Issues
+
+22 issues were worked on during the sprint. A few issues/bug reports were closed already by the end of the day, there were several more patches that were accepted over the following week.
+
+```{r issues}
+#| fig.cap = "Status of issues at the end of the sprint and two months after",
+#| fig.alt = paste(
+#|   "Stacked bar chart of issue status by issue type, in order of magnitude, split into two timepoints:",
+#|   "end of spint and two months after.",
+#|   "Low-level bugs (5): At end of sprint, 2 discussion, 3 patch;",
+#|   "One weeks after, an extra patch.",
+#|   "Graphics bugs (5): At end of sprint, 1 work in progress, 3 patch, 1 closed;",
+#|   "One weeks after, 2 patches moved to closed;",
+#|   "Translation (4): At end of sprint, 1 roadmap, 1 work in progress and 2 closed;",
+#|   "One weeks after, no change.",
+#|   "Documentation (3): At end of sprint, 2 work in progress and 1 patch;",
+#|   "One weeks after, no change.",
+#|   "Misc (3): At end of sprint 1 work in progress, 2 patch;",
+#|   "One weeks after: 2 patches moved to closed.",
+#|   "I/O (2): At end of sprint 1 discussion, 1 patch; One weeks after, patch moved to closed."),
+#| out.width = "100%"
+knitr::include_graphics('figures/bug_review.svg', auto_pdf = TRUE)
+```

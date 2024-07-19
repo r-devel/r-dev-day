@@ -1,0 +1,28 @@
+Bugzilla re,Etherpad,Topic,Project,Issue,GitHub URL,R Core 1,Contributor 1,Contributor 2,Contributor 3,Contributor 4,Contributor 5,Contributor 6,Status End,Status 1w,Status note
+,refmans work,Documentation ,Review 1 page refmans,14,issue #14,,Elio Campitelli,Lluís Revilla,(Hugo Gruson),,,,1 WIP,1 WIP,"Issues raised on refmans repo, with proposed patch to fix some"
+,R manuals CSS brainstorming,Documentation ,Improve CSS for R manuals,26,issue #26,,Hadley Wickham,Paola Corrales,Jayani Lakshika,Fonti Kar,Seowoo Jung,Hannah Frick,1 WIP,1 WIP,"Updated CSS with some improvements done, other targets in progress"
+"18729, 18727, 18702, 18464",,Documentation ,Misc documentation bugs ,24,issue #24,,,,,,,,1 Patch submitted,1 Patch submitted,"On Bugzilla, only 18729 addressed."
+,,Graphics,Improving stem() display,12,issue #12,Martin Mächler,Ella Kaye,Kelly Bodwin,Brian Terry,,,,1 Patch submitted,1 Closed fixed,
+,,Graphics,Testing alpha masks patch,16,issue #16,Paul Murrell,Tomasz Gieorgijewski        ,George Stagg,,,,,1 Not assigned,1 Not assigned,Tomasz plans to work on this 
+"R, C and doc: potential team task, Issue: 18758",,Graphics,Debugging segfaults on quartz,17,issue #17,Paul Murrell,Tomasz Gieorgijewski        ,,,,,,1 Closed fixed,1 Closed fixed,
+,,Graphics,Adding rot to glyphinfo,18,issue #18,(Paul Murrell),Daniel Sabanes Bove,,,,,,1 Patch submitted,1 Patch submitted,Patch on GitHub as no corresponding Bugzilla issue
+,,Graphics,Turn off date in pdf(),25,issue #25,Sebastian Meyer?,Edzer Pebesma,,,,,,1 Patch submitted,1 Closed fixed,Patch on GitHub as no corresponding Bugzilla issue
+18591,,Graphics,strwidth on macOS,24,issue #24,,,,,,,,1 Not assigned,1 Not assigned,Probably requires Simon involved
+secondary topic: models,,Graphics,Handling colons in termplot,11,issue #11,,Brian Terry,,,,,,1 WIP,1 WIP,Patch needs further testing/review
+,,I/O,max for data frames,3,issue #3,,,,,,,,1 Not assigned,1 Not assigned,Rolled on to next dev day
+,,I/O,max.print for matrix headers,4,issue #4,Martin Mächler,Lorena Abad,Ekaterina Akimova,Hanne Oberman,Abhishek Ulayil,Lionel Henry,,1 Patch created,1 Patch accepted,
+,,I/O,Stable file connections,27,issue #27,Luke Tierney,Henrik Bengtsson,Charlie Gao,,,,,1 Discussion,1 Discussion,"Agreed between Henrik, Charlie, Luke. Also discussed with Tomas and Sebastian. To open Bugzilla and post previously-prepared patch."
+,,Low level,Readable pointers w/ ALTREP,23,issue #23,,Gabe Becker,Davis Vaughan,Kirill Müller,Konstantin Emil Thiel,,,3 Patch submitted,4 Patch submitted,
+,,Low level,Low level,29,issue #29,Luke Tierney,Charlie Gao,,,,,,1 Discussion,1 Discussion,Github issue and Bugzilla updated (resolved pending decision by R-Core)
+,,Low level,Memory leak in sink(),,issue #30,Luke Tierney,George Stagg,,,,,,1 Discussion,1 Discussion,More investigation required to understand original logic in R source. Bugzilla thread created: 18760
+,,Misc,Implementing IEC file size units,28,issue #28,Martin Mächler,Henrik Bengtsson,,,,,,1 Patch created,1 Closed fixed,
+18674,,Misc,Fix hyphenation in toTitleCase(),32,issue #32,,Hugo Gruson,Reiko Okamoto,Shannon Pileggi,Sarah Zeller,,,1 Patch submitted,1 Closed fixed,"One issue from bumper issue 24. Follow-on bug opened: https://bugs.r-project.org/show_bug.cgi?id=18767, which overlaps with https://github.com/r-devel/r-dev-day/issues/3"
+"18369, 18258",,Misc,Functions and methods,24,issue #24,,,,,,,,2 Not assigned,2 Not assigned,
+"18703, 18584, 18186, 18255",,Packages,Misc package bugs,24,issue #24,,,,,,,,4 Not assigned,4 Not assigned,
+,,Translation,Translating R messages,2,issue #2,Michael Lawrence,,,,,,,1 Not assigned,1 Not assigned,
+,,Translation,Refining glossary,8,issue #8,,Binod Jung Bogati,Gergely Daroczi,,,,,1 Closed fixed,1 Closed fixed,"Main task of creating glossary completed, small task remains of updating translations documentation"
+,,Translation,Adding Windows installer,19,issue #19,,Heather Turner,,,,,,1 Not assigned,1 Not assigned,Did not get to this.
+,,Translation,Process for recommended packages,20,issue #20,(Martin Mächler),,Gergely Daroczi,,,,,1 Closed fixed,1 Closed fixed,
+,,Translation,Autocheck for single quotes,21,issue #21,,,Gergely Daroczi,,,,,1 Roadmap,1 Roadmap,Not viable now but can return to if implement custom checks
+,,Translation,Contacting team leads,22,issue #22,,Heather Turner,Gergely Daroczi,,,,,1 WIP,1 WIP,Started identifying primary contacts and updating contact list to be added to translations docs
+,,Misc,Improve printing of RTL text,,,Tomas Kalibera,Abraham Azar,,,,,,1 WIP,1 WIP,Identified several bugs that will require deep work from Tomas
