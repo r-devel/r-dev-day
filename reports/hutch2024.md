@@ -11,26 +11,22 @@ Due to the small numbers, EDIA summaries are not reported for this individual ev
 
 ## Participant List
 
-| Attendee name    | Job title | University/Affiliation |
-|------------------|-----------|------------------------|
-| Dave Slager      |           |                        |
-| Davis Vaughan    |           |                        |
-| Emily Riederer   |           |                        |
-| George Stagg     |           |                        |
-| gwynn gebeyhu    |           |                        |
-| Heather Turner   |           |                        |
-| Holly Cui        |           |                        |
-| Jane He          |           |                        |
-| Kelly Bodwin     |           |                        |
-| Lionel Henry     |           |                        |
-| Malcolm Barrett  |           |                        |
-| Michael Lawrence |           |                        |
-| Mike Chirico     |           |                        |
-| Robert Gentleman |           |                        |
-| Shannon Pileggi  |           |                        |
-| Sherry Zhang     |           |                        |
-| Thomas Lumley^   |           |                        |
-| Will Landau      |           |                        |
-| Zhian Kamvar     |           |                        |
+| Attendee name    | Job title                         | University/Affiliation                         |
+|------------------|-----------------------------------|------------------------------------------------|
+| Dave Slager      | Senior Statistical Programmer     | Fred Hutch Cancer Center                       |
+| gwynn gebeyhu    | Data Scientist                    | IRS                                            |
+| Heather Turner   | RSE Fellow/Associate Professor    | University of Warwick                          |
+| Holly Cui        | Master's Student in Statistics    | Duke University                                |
+| Jane He          | Software Engineer                 | DataStax                                       |
+| Kelly Bodwin     | Associate Professor of Statistics | California Polytechnic State University        |
+| Malcolm Barrett  | Research Software Engineer        | Stanford University                            |
+| Michael Lawrence | Data Scientist, Engineering       | Google                                         |
+| Mike Chirico     | Director                          | Genentech                                      |
+| Robert Gentleman |                                   |                                                |
+| Shannon Pileggi  | Lead Data Scientist               | The Prostate Cancer Clinical Trials Consortium |
+| Sherry Zhang     | Postdoc                           | University of Texas at Austin                  |
+| Thomas Lumley^   | Professor of Biostatistics        | University of Auckland                         |
+| Will Landau      | Senior Research Scientist         | Eli Lilly and Company                          |
+| Zhian Kamvar     | Softlore Engineer                 | Unseen University                              |
 
 ^Remote participant
