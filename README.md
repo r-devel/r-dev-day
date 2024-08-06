@@ -8,7 +8,7 @@ Use [Discussions](https://github.com/r-devel/r-dev-day/discussions) if you want 
 
 ## Issues
 
-Use [Issues](https://github.com/r-devel/r-dev-day/discussions) to propose tasks, ideally describing the issue sufficiently for someone to get started quickly.
+Use [Issues](https://github.com/r-devel/r-dev-day/discussions) to propose tasks, ideally describing the issue sufficiently for someone to get started quickly. Please use [**labels**](#labels) as described below!
 
 ### Scope
 
