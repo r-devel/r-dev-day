@@ -15,12 +15,18 @@ We will be preparing tasks as issues to this repository, labelled `RSECon24`. Yo
 
 Please keep an eye on the issues in the run up to the hackathon. You may need additional preparation to work on certain issues, e.g. learning to build R on macOS or reading background material. You can express an interest in a task by adding a comment or assigning yourself to the issue. You can assign yourself to multiple issues as it is not a final commitment, but you will probably only be able to work on one issue at the hackathon.
 
+## Equipment
+
+Participants are expected to bring their own laptop. Most people will be able to work through the browser only (using Weblate, GitHub browser interface or GitHub Codespaces). Work on OS-specific bugs may require using or building R on your own laptop.
+
+If you cannot travel with your laptop, you are still welcome to join, as we will be working collaboratively in small groups and you can pair with someone that has a laptop.
+
 ## Preparation
 
 Some things you can do to help prepare if you have time:
 
  - [Request an account on R's Bugzilla](https://contributor.r-project.org/rdevguide/IssueTrack.html#bugzilla-account) if you would like to work on bugs in the code/documentation and don't yet have an account. The process can take a few days, but is only a "nice to have".
- - [Set up an account on Weblate](https://translate.rx.studio/projects/r-project/) if you would like to work on translations. This can also be done at the hackathon.
+ - [Set up an account on Weblate](https://translate.rx.studio/projects/r-project/) if you would like to work on translations. This can also be done during the hackathon.
  - If you would like to work on bugs in the R code (vs the documentation, the R Translations Dashboard, or the R Dev Guide) and you are not comfortable with building R from source, we recommend learning to use the R Dev Container as described in the [participant resources list](../../blob/main/participant_resource_list.md) (~1 hour). This will not be required for all tasks involving code, but will open more possibilities.
 
 The [participant resources list](../../blob/main/participant_resource_list.md) contains further links for learning more about contribution. Working through these in advance is entirely optional - we will aim to match you to tasks given your current knowledge and experience - but they will help you to get stuck in at the hackathon.
@@ -29,7 +35,7 @@ If you have any queries, feel free to reach out to Heather Turner, Saranjeet Kau
 
 ## Working with remote participants
 
-Some ways to work with participants that are joining remotely:
+To work with participants that are joining remotely:
 
-* An in-person joins the remote session so that people in the small group can chat with the remote participants
-* The group uses the R Dev Container with [Live Share](https://contributor.r-project.org/r-dev-env/container_setup/live_share/) so that you can collaborate on code and have a space to chat.
+* Each group will have a Zoom breakout session they can use to text/video chat with people in their group
+* You may also use the R Dev Container with [Live Share](https://contributor.r-project.org/r-dev-env/container_setup/live_share/) so that you can collaborate on code and have a space to text chat on the same platform. This does not require you to learn how to build R, the release version of R is already available in the R Dev Container.
