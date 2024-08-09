@@ -26,3 +26,10 @@ Some things you can do to help prepare if you have time:
 The [participant resources list](../../blob/main/participant_resource_list.md) contains further links for learning more about contribution. Working through these in advance is entirely optional - we will aim to match you to tasks given your current knowledge and experience - but they will help you to get stuck in at the hackathon.
 
 If you have any queries, feel free to reach out to Heather Turner, Saranjeet Kaur or Nick Tierney on the RSECon24 Slack.
+
+## Working with remote participants
+
+Some ways to work with participants that are joining remotely:
+
+* An in-person joins the remote session so that people in the small group can chat with the remote participants
+* The group uses the R Dev Container with [Live Share](https://contributor.r-project.org/r-dev-env/container_setup/live_share/) so that you can collaborate on code and have a space to chat.
