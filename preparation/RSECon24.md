@@ -11,7 +11,7 @@ Anyone with an interest in contributing to R, or in open source contribution mor
 
 ## Tasks for the hackathon
 
-We will be preparing tasks as issues to this repository, labelled `RSECon24`. You are also welcome to add issues or discuss ideas for issues as described in the repo [README](../../README.md).
+We will be preparing tasks as issues to this repository, labelled `RSECon24`. You are also welcome to add issues or discuss ideas for issues as described in the repo [README](https://github.com/r-devel/r-dev-day/blob/main/README.md).
 
 Please keep an eye on the issues in the run up to the hackathon. You may need additional preparation to work on certain issues, e.g. learning to build R on macOS or reading background material. You can express an interest in a task by adding a comment or assigning yourself to the issue. You can assign yourself to multiple issues as it is not a final commitment, but you will probably only be able to work on one issue at the hackathon.
 
@@ -29,7 +29,7 @@ Some things you can do to help prepare if you have time:
  - [Set up an account on Weblate](https://translate.rx.studio/projects/r-project/) if you would like to work on translations. This can also be done during the hackathon.
  - If you would like to work on bugs in the R code (vs the documentation, the R Translations Dashboard, or the R Dev Guide) and you are not comfortable with building R from source, we recommend learning to use the R Dev Container as described in the [participant resources list](../../blob/main/participant_resource_list.md) (~1 hour). This will not be required for all tasks involving code, but will open more possibilities.
 
-The [participant resources list](../../blob/main/participant_resource_list.md) contains further links for learning more about contribution. Working through these in advance is entirely optional - we will aim to match you to tasks given your current knowledge and experience - but they will help you to get stuck in at the hackathon.
+The [participant resources list](https://github.com/r-devel/r-dev-day/blob/main/participant_resource_list.md) contains further links for learning more about contribution. Working through these in advance is entirely optional - we will aim to match you to tasks given your current knowledge and experience - but they will help you to get stuck in at the hackathon.
 
 If you have any queries, feel free to reach out to Heather Turner, Saranjeet Kaur or Nick Tierney on the RSECon24 Slack.
 
