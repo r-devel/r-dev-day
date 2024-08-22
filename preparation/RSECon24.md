@@ -11,7 +11,7 @@ Anyone with an interest in contributing to R, or in open source contribution mor
 
 ## Tasks for the hackathon
 
-We will be preparing tasks as issues to this repository, labelled `RSECon24`. You are also welcome to add issues or discuss ideas for issues as described in the repo [README](https://github.com/r-devel/r-dev-day/blob/main/README.md).
+Tasks for the hackathon have been prepared as [issues on this repository with label `RSECon24`](https://github.com/r-devel/r-dev-day/issues?q=is%3Aissue+is%3Aopen+label%3ARSECon24). You are also welcome to add issues or discuss ideas for issues as described in the repo [README](https://github.com/r-devel/r-dev-day/blob/main/README.md).
 
 Please keep an eye on the issues in the run up to the hackathon. You may need additional preparation to work on certain issues, e.g. learning to build R on macOS or reading background material. You can express an interest in a task by adding a comment or assigning yourself to the issue. You can assign yourself to multiple issues as it is not a final commitment, but you will probably only be able to work on one issue at the hackathon.
 
