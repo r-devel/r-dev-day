@@ -9,9 +9,13 @@ Participants are encourage to attend both sessions, so there is time to make pro
 
 Anyone with an interest in contributing to R, or in open source contribution more generally, is welcome to attend. We will be preparing tasks requiring a range of expertise, e.g. translating message strings to non-English languages, reviewing the design of a dashboard, improving R help files, testing patches in R/C code, debugging GUI behaviour, etc.
 
+We also have a dedicated RSE slack channel for this dev day, "hackathon R development" ,which you can join here: https://rsecon24.slack.com/archives/C07J7H4HB8R
+
 ## Tasks for the hackathon
 
 Tasks for the hackathon have been prepared as [issues on this repository with label `RSECon24`](https://github.com/r-devel/r-dev-day/issues?q=is%3Aissue+is%3Aopen+label%3ARSECon24). You are also welcome to add issues or discuss ideas for issues as described in the repo [README](https://github.com/r-devel/r-dev-day/blob/main/README.md).
+
+Issues are also arranged in the google sheet ["RSECon24 R Hackathon Working Group Allocations"](https://docs.google.com/spreadsheets/d/1LQP-FkzYunmWj5HX6hLu8E2CO9vACYe4fWmz5cE3l38/edit?usp=sharing), which is where people can sign up for these issues.
 
 Please keep an eye on the issues in the run up to the hackathon. You may need additional preparation to work on certain issues, e.g. learning to build R on macOS or reading background material. You can express an interest in a task by adding a comment or assigning yourself to the issue. You can assign yourself to multiple issues as it is not a final commitment, but you will probably only be able to work on one issue at the hackathon.
 
@@ -40,4 +44,4 @@ To work with participants that are joining remotely:
 * Each group will have a Zoom breakout session they can use to text/video chat with people in their group
 * Bringing headphones/earbuds would help so you can talk with less disruption/noise to remote participants
 * You may also use the R Dev Container with [Live Share](https://contributor.r-project.org/r-dev-env/container_setup/live_share/) so that you can collaborate on code and have a space to text chat on the same platform. This does not require you to learn how to build R, the release version of R is already available in the R Dev Container.
-* You can also join the dedicated RSE slack channel for this dev day: https://rsecon24.slack.com/archives/C07J7H4HB8R 
+* You can also join the dedicated RSE slack channel for this dev day: https://rsecon24.slack.com/archives/C07J7H4HB8R
