@@ -40,3 +40,4 @@ To work with participants that are joining remotely:
 * Each group will have a Zoom breakout session they can use to text/video chat with people in their group
 * Bringing headphones/earbuds would help so you can talk with less disruption/noise to remote participants
 * You may also use the R Dev Container with [Live Share](https://contributor.r-project.org/r-dev-env/container_setup/live_share/) so that you can collaborate on code and have a space to text chat on the same platform. This does not require you to learn how to build R, the release version of R is already available in the R Dev Container.
+* You can also join the dedicated RSE slack channel for this dev day: https://rsecon24.slack.com/archives/C07J7H4HB8R 
