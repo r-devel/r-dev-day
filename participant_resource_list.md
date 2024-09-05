@@ -8,7 +8,7 @@ You may find the following resources helpful to prepare for an R Dev Day.
 
 [Analysing Bugs/Contributing Patches](https://contributor.r-project.org/tutorials/contributing-to-r/) (2h15 video + exercises - assumes some knowledge of debugging in R).
 
-[Starting Codespace](https://contributor.r-project.org/r-dev-env/container_setup/creating_codespace/) and [Restarting and stopping](https://contributor.r-project.org/r-dev-env/container_setup/codespacestartstop/), to learn how to use the **R Dev Container** through the browser with GitHub Codespaces, 
+[Starting Codespace](https://contributor.r-project.org/r-dev-env/container_setup/gitpod_workspace/workspacestart/) and [Stopping and restarting](https://contributor.r-project.org/r-dev-env/container_setup/gitpod_workspace/workspacestop_and_restart/), to learn how to use the **R Dev Container** through the browser with GitHub Codespaces, 
 followed by [Running R](https://contributor.r-project.org/r-dev-env/tutorials/running_r/), [Building R](https://contributor.r-project.org/r-dev-env/tutorials/building_r/) and [R Contribution Workflow](https://contributor.r-project.org/r-dev-env/tutorials/contribution_workflow/) to learn the basics of using the R Dev Container to develop changes to base R. (<1hr step-by-step guide).
 
 [R Dev Guide](https://contributor.r-project.org/rdevguide/) (ebook). This is designed as a reference for contributors on different aspects of contributing to R. In particular see Chapter 2 for learning how to build R on your own machine. Currently the instructions for macOS have not been incorporated, but there is a [draft version](https://github.com/r-devel/rcwg/blob/main/working_documents/install_r_macos.md).
