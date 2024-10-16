@@ -1,5 +1,10 @@
 # R Dev Day @ LatinR 2024, 18-19 November, Online
 
+**Dates:** November 18 and 19, 2024, 5:30pm \- 8pm (UTC-3)  
+**Mode:** Online
+**Enrollment:** https://pretix.eu/r-contributors/r-dev-day-latinr2024/  
+**Language:** English, Portuguese and Spanish
+
 ## About
 
 R Dev Day @ LatinR 2024 is a collaborative event where participants will work in small groups on contributions to base R, or to infrastructure that supports such contribution, e.g., 
@@ -21,9 +26,15 @@ There will be two sessions on Monday 18 November and Tuesday 19 November at the 
 | :---- | :---- | :---- |
 | 8:30pm \- 11pm | 5:30pm \- 8pm | 1:30pm \- 4pm |
 
-You are encouraged to attend both sessions if possible, but it is okay to join one session only. There will be a short introduction (~10 minutes) at the start of each session in English, Spanish and Portuguese.
+You are encouraged to attend both sessions if possible, but it is okay to join one session only. 
 
-We will use the "r-dev-day" channel on the LatinR Slack for related discussion.
+## Communication
+
+There will be a short introduction (~10 minutes) at the start of each session in English, Spanish and Portuguese.
+
+We will use the "r-dev-day" channel on the LatinR Slack for related discussion - use of English, Spanish or Portuguese is welcome.
+
+Small groups can agree on a common language to work in - English will be the default, but Spanish- and Portuguese-speaking facilitators will be available for help.
 
 ## Tasks
 
