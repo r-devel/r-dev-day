@@ -1,4 +1,4 @@
-# R Dev Day @ LatinR 2024, 18-19 November, Online
+# R Dev Day @ LatinR 2024
 
 **Dates:** November 18 and 19, 2024, 5:30pm \- 8pm (UTC-3)  
 **Mode:** Online  
