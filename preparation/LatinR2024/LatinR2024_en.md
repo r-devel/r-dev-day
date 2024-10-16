@@ -19,7 +19,7 @@ There will be two sessions on Monday 18 November and Tuesday 19 November at the 
 
 | UTC | Buenos Aires (UTC-3) | Hermosillo (UTC-7) |
 | :---- | :---- | :---- |
-| 7:30pm \- 10pm | 5:30pm \- 8pm | 1:30pm \- 4pm |
+| 8:30pm \- 11pm | 5:30pm \- 8pm | 1:30pm \- 4pm |
 
 You are encouraged to attend both sessions if possible, but it is okay to join one session only. There will be a short introduction (~10 minutes) at the start of each session in English, Spanish and Portuguese.
 
