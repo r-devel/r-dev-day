@@ -1,7 +1,8 @@
 # R Dev Day @ LatinR 2024, 18-19 de noviembre, en línea
 
-**Fechas:** 18 y 19 de noviembre de 2024, 17:30 - 20:00 (UTC-3)
-**Modalidad:** Online Inscripción: https://pretix.eu/r-contributors/r-dev-day-latinr2024/
+**Fechas:** 18 y 19 de noviembre de 2024, 17:30 - 20:00 (UTC-3)  
+**Modalidad:** Online  
+**Inscripción:** https://pretix.eu/r-contributors/r-dev-day-latinr2024/  
 **Idioma:** Inglés, portugués y español
 
 ## Acerca de
