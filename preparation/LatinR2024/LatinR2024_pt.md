@@ -5,9 +5,9 @@
 **Inscrição:** https://pretix.eu/r-contributors/r-dev-day-latinr2024/
 **Idiomas:** Inglês, português e espanhol
 
-# Sobre o
+# Sobre
 
-O R Dev Day @ LatinR 2024 é um evento colaborativo no qual os participantes trabalharão em pequenos grupos em contribuições para o R básico ou para a infraestrutura que dá suporte a essas contribuições, por exemplo
+O R Dev Day @ LatinR 2024 é um evento colaborativo no qual os participantes trabalharão em pequenos grupos para contribuir para o R básico ou para a infraestrutura que dá suporte a essas contribuições, por exemplo
 
 * Traduzir strings de mensagens para espanhol/português brasileiro
 * Propor melhorias nos arquivos de ajuda do R
@@ -16,11 +16,11 @@ O R Dev Day @ LatinR 2024 é um evento colaborativo no qual os participantes tra
 * Adicionar conteúdo ao [R Dev Guide](https://contributor.r-project.org/rdevguide/)
 * Melhorar o [R Translations Dashboard](https://contributor.r-project.org/translations-dashboard/)
 
-Tanto colaboradores novos quanto experientes são incentivados a participar!
+Tanto colaboradores novos quanto experientes estão convidados a participar!
 
 ## Quando
 
-Haverá duas sessões na segunda-feira, 18 de novembro, e na terça-feira, 19 de novembro, no mesmo horário todos os dias:
+Haverá duas sessões na segunda-feira, 18 de novembro, e na terça-feira, 19 de novembro. No mesmo horário todos os dias:
 
 | UTC | Buenos Aires (UTC-3) | Hermosillo (UTC-7) |
 | :---- | :---- | :---- |
@@ -34,16 +34,16 @@ Haverá uma breve introdução (~10 minutos) no início de cada sessão em ingl�
 
 Usaremos o canal “r-dev-day” no Slack do LatinR para discussões relacionadas - o uso de inglês, espanhol ou português é bem-vindo.
 
-Pequenos grupos podem concordar com um idioma comum para trabalhar - o inglês será o padrão, mas os facilitadores que falam espanhol e português estarão disponíveis para ajudar.
+Os pequenos grupos podem acordar um idioma comum para trabalhar - o inglês será o padrão, mas os facilitadores que falam espanhol e português estarão disponíveis para ajudar.
 
 ## Tarefas
 
 As tarefas serão preparadas como [problemas neste repositório com o rótulo `LatinR2024`](https://github.com/r-devel/r-dev-day/issues?q=is%3Aissue+is%3Aopen+label%3ALatinR2024). Você pode adicionar problemas ou discutir ideias para problemas, conforme descrito no [README](https://github.com/r-devel/r-dev-day/blob/main/README.md).
 
 Os problemas estão resumidos na planilha do [R Dev Day @ LatinR 2024 Working Group Allocations](
-https://docs.google.com/spreadsheets/d/1Nuwusm7Xgwpw54KZnnrnNVT9vPkOk2qmromBEbYNHnU/edit). Adicione seu nome à lista de colaboradores se estiver interessado em trabalhar em um problema. Você pode se adicionar a várias questões, pois não se trata de um compromisso final - as alocações serão finalizadas no início de cada sessão.
+https://docs.google.com/spreadsheets/d/1Nuwusm7Xgwpw54KZnnrnNVT9vPkOk2qmromBEbYNHnU/edit). Adicione seu nome à lista de colaboradores se estiver interessado em trabalhar em um problema. Você pode se incluir em várias questões, pois não se trata de um compromisso final - as alocações serão finalizadas no início de cada sessão.
 
-Fique de olho nas edições antes do evento. Talvez você precise de preparação adicional para trabalhar em determinadas questões, por exemplo, aprender a criar o R no macOS ou ler material de apoio.
+Fique de olho nas edições antes do evento. Talvez você precise de preparação adicional para trabalhar em determinadas questões, por exemplo, aprender a criar o R no macOS ou ler um material de apoio.
 
 ## Configuração do desenvolvimento
 
@@ -53,11 +53,11 @@ A maioria das pessoas poderá trabalhar somente pelo navegador (usando o Weblate
 
 Algumas coisas que você pode fazer para ajudar a se preparar, se tiver tempo:
 
-* [Solicite uma conta no Bugzilla](https://contributor.r-project.org/rdevguide/IssueTrack.html#bugzilla-account) do R se você quiser trabalhar em bugs no código/documentação e ainda não tiver uma conta. O processo pode levar alguns dias, mas é apenas um “bom ter”.
+* [Solicite uma conta no Bugzilla](https://contributor.r-project.org/rdevguide/IssueTrack.html#bugzilla-account) do R se você quiser trabalhar em bugs no código/documentação e ainda não tiver uma conta. O processo pode levar alguns dias, mas é apenas um “é bom ter”.
 * [Crie uma conta no Weblate](https://translate.rx.studio/projects/r-project/)  se você quiser trabalhar com traduções. Isso também pode ser feito durante o evento.
-* Se quiser trabalhar em bugs no código do R (em comparação com a documentação, o R Translations Dashboard ou o R Dev Guide) e não se sentir confortável com a criação do R a partir do código-fonte, recomendamos que aprenda a usar o R Dev Container, conforme descrito na seção [Outros recursos](#outros-recursos) (aproximadamente 1 hora). Isso não será necessário para todas as tarefas que envolvem código, mas abrirá mais possibilidades.
+* Se quiser trabalhar em bugs no código do R (em comparação com a documentação, o R Translations Dashboard ou o R Dev Guide) e não se sentir confortável com a criação do R a partir do código-fonte, recomendamos que aprenda a usar o R Dev Container, conforme descrito na seção [Outros recursos](#outros-recursos) (leva aproximadamente 1 hora). Isso não será necessário para todas as tarefas que envolvem código, mas abrirá mais possibilidades.
 
-A seção [Outros recursos](#outros-recursos) contém links para aprender mais sobre contribuição. Trabalhar com esses links com antecedência é totalmente opcional - nosso objetivo é adequar você às tarefas de acordo com seu conhecimento e experiência atuais - mas eles o ajudarão a se envolver no evento.
+A seção [Outros recursos](#outros-recursos) contém links para aprender mais sobre como contribuir. Trabalhar com esses links com antecedência é totalmente opcional - nosso objetivo é adequar você às tarefas de acordo com seu conhecimento e experiência atuais - mas eles o ajudarão a se envolver no evento.
 
 Se tiver alguma dúvida, sinta-se à vontade para entrar em contato com um dos membros do comitê organizador por meio do Slack do LatinR:
 
