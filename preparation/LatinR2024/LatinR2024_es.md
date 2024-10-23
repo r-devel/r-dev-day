@@ -7,26 +7,25 @@
 
 ## Acerca de
 
-R Dev Day @ LatinR 2024 es un evento colaborativo donde las personas trabajarán en pequeños grupos para hacer contribuciones a R base, o a infraestructura que soporta dicha contribución, ej,
+R Dev Day @ LatinR 2024 es un evento colaborativo donde las personas trabajarán en pequeños grupos para hacer contribuciones a R base, o a la infraestructura que soporta dicha contribución. Ejemplos de posibles contribuciones:
 
 * Traducir mensajes de error cadenasal español/portugués de Brasil
 * Proponer mejoras en la documentación de R
 * Analizar un error en R
 * Generar una solución a un error en R
-* Añadir contenido a la [R Dev Guide](https://contributor.r-project.org/rdevguide/)
-* Mejorar el [R Translations Dashboard](https://contributor.r-project.org/translations-dashboard/)
+* Añadir contenido a la [Guía de Desarrollo de R](https://contributor.r-project.org/rdevguide/)
+* Mejorar el [Tablero de traducciones de R ](https://contributor.r-project.org/translations-dashboard/)
   
-Invitamos a participar tanto a a personas que van a colaborar primera vez como aquellas que ya tienen experiencia.
+Invitamos a participar tanto a personas que van a colaborar primera vez como a aquellas que ya tienen experiencia.
 
 ## Cuándo
-
-Habrá dos sesiones el lunes 18 de noviembre y el martes 19 de noviembre a la misma hora cada día:
+Las sesiones se realizarán el lunes 18 y martes 19 de noviembre, a la misma hora cada día.
 
 | UTC | Buenos Aires (UTC-3) | Hermosillo (UTC-7) |
 | :---- | :---- | :---- |
 | 8:30pm \- 11pm | 5:30pm \- 8pm | 1:30pm \- 4pm |
 
-Les invitamos a participar en ambas sesiones si es posible, pero también puedes asistir a una sola sesión.
+Le recomendamos participar de ambas sesiones, pero de no ser posible también puede asistir a una sola sesión.
 
 ## Comunicación
 
@@ -62,7 +61,7 @@ Algunas cosas que puedes hacer para ayudar a prepararte si tienes tiempo:
 * [Crea una cuenta en Weblate](https://translate.rx.studio/projects/r-project/) si quieres trabajar en las traducciones. Esto también puede hacerse durante el evento.
 * Si deseas trabajar en los errores en el código R (vs la documentación, el Dashboard de traducciones de R, o la R Dev Guide) y no tienes experiencia compilando R desde el código fuente, te recomendamos aprender a utilizar el R Dev Container como se describe en la sección de [Otros recursos](#otros-recursos) (~ 1 hora). Esto no será necesario para todas las tareas que impliquen código, pero abrirá más posibilidades.
 
-La sección de [Otros recursos](#otros-recursos) contiene enlaces para aprender más sobre como contribuir. Revisar estos enlaces con antelación es totalmente opcional (intentaremos asignarte las tareas en función de tus conocimientos y experiencia actuales), pero te ayudarán a ponerte manos a la obra en el evento.
+La sección de [Otros recursos](#otros-recursos) contiene enlaces para aprender más sobre cómo contribuir. Revisar estos enlaces con antelación es totalmente opcional (intentaremos asignarte las tareas en función de tus conocimientos y experiencia actuales), pero te ayudarán a ponerte manos a la obra en el evento.
 
 Si tienes alguna pregunta, no duded en ponerte en contacto con uno de los miembros del comité organizador a través del Slack de LatinR:
 
