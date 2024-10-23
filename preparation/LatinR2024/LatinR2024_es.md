@@ -3,7 +3,7 @@
 **Fechas:** 18 y 19 de noviembre de 2024, 17:30 - 20:00 (UTC-3)  
 **Modalidad:** Online  
 **Inscripción:** https://pretix.eu/r-contributors/r-dev-day-latinr2024/  
-**Idioma:** Inglés, portugués y español
+**Idioma:** Inglés, Portugués y Español
 
 ## Acerca de
 
@@ -16,7 +16,7 @@ R Dev Day @ LatinR 2024 es un evento colaborativo donde las personas trabajarán
 * Añadir contenido a la [Guía de Desarrollo de R](https://contributor.r-project.org/rdevguide/)
 * Mejorar el [Tablero de traducciones de R ](https://contributor.r-project.org/translations-dashboard/)
   
-Invitamos a participar tanto a personas que van a colaborar primera vez como a aquellas que ya tienen experiencia.
+Invitamos a participar a personas con distintos niveles de conocimiento, desde principiantes hasta expertos.
 
 ## Cuándo
 Las sesiones se realizarán el lunes 18 y martes 19 de noviembre, a la misma hora cada día.
