@@ -2,25 +2,37 @@
 
 ## Preparing for an R Dev Day
 
-You may find the following resources helpful to prepare for an R Dev Day.
+If you have never built R from source before, we recommend learning how to do this with the **R Dev Container** on GitHub Codespaces. The following mini-tutorials should take <1 hr to complete:
 
-[Reviewing Bug Reports](https://blog.r-project.org/2019/10/09/r-can-use-your-help-reviewing-bug-reports/index.html), R Blog post (3 min read) 
+* First learn how to [start the codespace](https://contributor.r-project.org/r-dev-env/container_setup/github_codespace/creating_codespace/).
+* Then learn about [Stopping and restarting](https://contributor.r-project.org/r-dev-env/container_setup/github_codespace/codespacestartstop/) so you can use the same codespace at the R Dev Day.
+* If you've not used R in VS Code before, learn about [Running R](https://contributor.r-project.org/r-dev-env/tutorials/running_r/)
+* Finally learn about [Building R](https://contributor.r-project.org/r-dev-env/tutorials/building_r/) and the [R Contribution Workflow](https://contributor.r-project.org/r-dev-env/tutorials/contribution_workflow/), to learn the basics of R development.
 
-[Debugging in R](https://youtu.be/31kl3Y0MUWc) (1h45 video)
+If you want to work on bugs affecting Windows or macOS specifically, you'll need to build R on your own laptop, see the [R Dev Guide](#r-dev-guide) section.
 
-[Analysing Bugs/Contributing Patches](https://contributor.r-project.org/tutorials/contributing-to-r/) (2h15 video + exercises - assumes some knowledge of debugging in R).
+## Further Resources
 
-[Starting Codespace](https://contributor.r-project.org/r-dev-env/container_setup/gitpod_workspace/workspacestart/) and [Stopping and restarting](https://contributor.r-project.org/r-dev-env/container_setup/gitpod_workspace/workspacestop_and_restart/), to learn how to use the **R Dev Container** through the browser with GitHub Codespaces, 
-followed by [Running R](https://contributor.r-project.org/r-dev-env/tutorials/running_r/), [Building R](https://contributor.r-project.org/r-dev-env/tutorials/building_r/) and [R Contribution Workflow](https://contributor.r-project.org/r-dev-env/tutorials/contribution_workflow/) to learn the basics of using the R Dev Container to develop changes to base R. (<1hr step-by-step guide).
+### Tutorials
 
-[R Dev Guide](https://contributor.r-project.org/rdevguide/) (ebook). This is designed as a reference for contributors on different aspects of contributing to R. In particular see Chapter 2 for learning how to build R on your own machine. Currently the instructions for macOS have not been incorporated, but there is a [draft version](https://github.com/r-devel/rcwg/blob/main/working_documents/install_r_macos.md).
+If you have more time to prepare, you might consider following one or more of the following longer tutorials.
 
-[Contributing translations to R](https://youtu.be/ABdyZW8yGS4) (1h video), tutorial introducing translation via the Weblate browser interface. 
+* [Debugging in R](https://youtu.be/31kl3Y0MUWc) (1h45 video) - a tutorial for people new to debugging R code.
+* [Contributing translations to R](https://youtu.be/ABdyZW8yGS4) (1h video) - a tutorial on contributing translations via the Weblate browser interface. 
+* [Contributing to R](https://contributor.r-project.org/tutorials/contributing-to-r/) (2h15 video + exercises) - a tutorial on analysing bugs and contributing to base R. This assumes some knowledge of debugging in R.
 
-Learning to build R in the GitHub Codespace (i.e. in an instance of VS Code you can launch through the browser) or on your own machine is recommended for all participants of R Dev Days.
+### R Dev Guide
 
-## General help with contributing
+The [R Dev Guide](https://contributor.r-project.org/rdevguide/) is a general reference for contributors on different aspects of contributing to R. 
 
-[R Contributors Slack](https://contributor.r-project.org/slack).
+Particular sections that may be helpful for R Dev Day participants to look at prior to/during the R Dev Day:
+    * [How to contribute new translations](https://contributor.r-project.org/rdevguide/chapters/message_translations.html#how-to-contribute-new-translations)
+    * [Building R](https://contributor.r-project.org/rdevguide/chapters/getting_started.html). This will be useful for people that prefer to get set up on their own laptop rather than use the R Dev Container. It will also be necessary for people that want to work on a bug affecting Windows or macOS, since the R Dev Container uses Ubuntu. Currently the instructions for macOS have not been incorporated, but there is a [draft version](https://github.com/r-devel/rcwg/blob/main/working_documents/install_r_macos.md).
 
-[R Contributor Office Hours](https://contributor.r-project.org/events/office-hours/).
+## General support for R Contributors
+
+The following resources are available to support contributors on an on-going basis:
+
+* [R Contributors Slack](https://contributor.r-project.org/slack).
+
+* [R Contributor Office Hours](https://contributor.r-project.org/events/office-hours/).
