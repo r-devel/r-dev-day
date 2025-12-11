@@ -4,6 +4,9 @@
 
 If you have never built R from source before, we recommend learning how to do this with the **R Dev Container** on GitHub Codespaces. The following mini-tutorials should take <1 hr to complete:
 
+> [!IMPORTANT]
+> We currently recommend to start the codespace from the [`devel`](https://github.com/r-devel/r-dev-env/tree/devel) branch of the R Dev Container, to take advantage of recent improvements (e.g., linux binaries for package installation, http graphics with R-devel, LLDB for debugging C code).
+
 * First learn how to [start the codespace](https://contributor.r-project.org/r-dev-env/container_setup/github_codespace/creating_codespace/).
 * Then learn about [Stopping and restarting](https://contributor.r-project.org/r-dev-env/container_setup/github_codespace/codespacestartstop/) so you can use the same codespace at the R Dev Day.
 * If you've not used R in VS Code before, learn about [Running R](https://contributor.r-project.org/r-dev-env/tutorials/running_r/)
